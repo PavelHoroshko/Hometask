@@ -99,6 +99,16 @@
     left: 0;
     transition: 0.8s;
   }
+  .navigation.active {
+    position: absolute;
+    background-color: rgba(37, 43, 73, 0.98);
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    transition: 0.8s;
+  }
+  
   .burger-menu {
     display: block;
     position: relative;
